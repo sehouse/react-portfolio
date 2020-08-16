@@ -141,7 +141,7 @@ class Header extends Component {
                                 duration={500}
                                 className="site-nav__link"
                             >
-                                Works
+                                Job History
 		          </Link>
                         </li>
                         <li className="site-nav__list">

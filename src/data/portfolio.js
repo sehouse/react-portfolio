@@ -1,10 +1,10 @@
 const portfolioData = {
     "imageUrl": 'http://localhost:3000/',
     "logo": "images/sh_logo.png",
-    "name": 'Scott E. House',
+    "name": 'Scott House',
     "role": 'Full Stack Developer',
-    "intro": "Let's work to build a better world!.",
-    "projects ": [
+    "intro": "Let's work to build a better world!",
+    "projects": [
         {
             "id": 0,
             "title": "COVID-19 Tracker",
@@ -26,7 +26,7 @@ const portfolioData = {
         {
             "id": 2,
             "title": "Work Day Scheduler",
-            "imageUrl": "images/portfolio/scott-house-work-day-scheduler-top",
+            "imageUrl": "images/portfolio/scott-house-work-day-scheduler-top.jpg",
             "link": "https://sehouse.github.io/work-day-scheduler/",
             "codeLink": "https://github.com/sehouse/work-day-scheduler",
             "description": "This project is a fairly basic work day scheduler, in which the user can input daily tasks by hour, save/clear them, and the app will track what time of day it currently is.",
@@ -44,7 +44,7 @@ const portfolioData = {
         {
             "id": 4,
             "title": "Handlebars Burger App",
-            "imageUrl": "images/portfolio/handlebars-burger-app",
+            "imageUrl": "images/portfolio/handlebars-burger-app.png",
             "link": "https://vaporwave-burger-application.herokuapp.com/burgers",
             "codeLink": "https://github.com/sehouse/handlebars_burger_app",
             "description": "This application creates a database of burgers for a user to keep track of and allows them to mark the burger as devoured or submit new burgers through a front end application, instead of through mysql.",
@@ -100,7 +100,7 @@ const portfolioData = {
         {
             "title": "Tech Support Specialist",
             "date": 'August 2020 - Current',
-            "description": "I am responsible for maintenance and upkeep of the high school's technology, which includes ChromeBooks, MacBooks, iPads, and Prometheus boards, and other assorted technology. Tasks can typically include the use of a MySQL database to track technology, repair of tech components, and troubleshooting user problems",
+            "description": "I am responsible for maintenance and upkeep of the high school's technology, which includes ChromeBooks, MacBooks, iPads, and Prometheus boards, and other assorted technology.",
             "company": 'Sanford High School'
         },
         {
